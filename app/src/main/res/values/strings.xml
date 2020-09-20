@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPA_yeungj1_Calculator</string>
+    <string name="gpa_yeungj1_calculator">GPA_yeungj1_Calculator</string>
+    <string name="enter_your_first_grade">Enter Your First Grade</string>
+    <string name="enter_your_second_grade">Enter Your Second Grade</string>
+    <string name="enter_your_third_grade">Enter Your Third Grade</string>
+    <string name="enter_your_fourth_grade">Enter Your Fourth Grade</string>
+    <string name="enter_your_fifth_grade">Enter Your Fifth Grade</string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="course_1_grade">Course 1 Grade:</string>
+    <string name="course_2_grade">Course 2 Grade:</string>
+    <string name="course_3_grade">Course 3 Grade:</string>
+    <string name="course_4_grade">Course 4 Grade:</string>
+    <string name="course_5_grade">Course 5 Grade:</string>
+    <string name="gpa">GPA:</string>
+</resources>
